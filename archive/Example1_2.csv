@@ -1,0 +1,1003 @@
+person,color,brand,model,price,discount,date,gasoline_consumption
+Michael Wu, grey,Lada,Vesta,11243.44,20,2019-12-15,7.3
+Carla Smith, red,BMW,F80,63761.75,0,2019-01-29,8.3
+Daniel Sanders, red,Hyundai,Elantra,42584.06,0,2021-08-29,5.0
+Summer Diaz, pink,Lada,Samara,9902.40,0,2017-02-08,7.8
+Matthew Anderson, grey,Audi,S3,18307.80,0,2020-05-12,6.9
+Jason Davis, orange,Tesla,Model X,71164.60,0,2019-02-20,NULL
+Amanda Rice, purple,Hyundai,Elantra,32153.53,9,2022-12-29,5.0
+Jason Richards, red,Tesla,Model Y,53533.13,0,2015-07-24,NULL
+Tonya Rivera, blue,BMW,F80,45032.40,0,2022-10-04,8.3
+Martha Parker, yellow,Hyundai,Sonata,32253.60,17,2021-05-14,6.0
+David Hardy, blue,Kia,Rio,21674.40,0,2018-08-03,3.1
+Mark Watson, grey,Lada,Vesta,9002.70,0,2020-06-08,7.3
+Elizabeth Nelson, grey,Audi,S3,27602.00,0,2017-12-24,6.9
+Robert Lopez, yellow,BMW,F30,42299.93,0,2021-08-29,2.0
+Laura Mcclain, blue,Audi,A3,26491.50,0,2020-12-25,5.7
+Anthony Brown, green,Porsche,911,50619.60,0,2020-10-09,12.0
+Brandy Martin, yellow,Tesla,Model X,49587.88,0,2015-02-16,NULL
+Jeremy Jennings, red,Kia,Rio,26753.63,0,2020-01-17,3.1
+Amanda Kelly, orange,Audi,A3,18167.40,0,2015-08-09,5.7
+Wayne Miller, blue,Porsche,911,66751.65,0,2021-09-17,12.0
+Lori Booth, purple,Audi,S3,31642.80,0,2018-11-07,6.9
+Jose Love, blue,Tesla,Model X,32188.50,0,2020-11-06,NULL
+Dawn Kennedy, blue,Tesla,Model 3,53075.10,0,2019-05-01,NULL
+Cynthia Obrien, yellow,BMW,F80,49078.84,0,2022-02-22,8.3
+Linda Romero, pink,Audi,A3,13397.40,0,2020-11-26,5.7
+Brandy Sanders, red,BMW,F80,44556.25,0,2017-06-24,8.3
+Charles Martinez, green,Lada,Kalina,11796.15,0,2016-05-21,6.7
+Corey Moran Jr., red,Lada,Samara,18363.50,0,2016-11-27,7.8
+James Turner, pink,bmv,F30,19449.72,0,2020-08-29,2.0
+James Turner, pink,bmv,F30,19449.72,0,2020-08-29,2.0
+Catherine Burton, yellow,Tesla,Model S,61159.87,0,2021-07-16,NULL
+Colleen Daniels, grey,Tesla,Model X,50465.10,0,2021-01-16,NULL
+Kathleen Vega, grey,Tesla,Model 3,39951.30,0,2016-08-24,NULL
+Nicholas Gilbert, red,Hyundai,Avante,40602.19,0,2021-05-25,5.5
+Mary Ramirez, yellow,Kia,K5,37778.65,0,2019-07-23,4.9
+Kathleen Kim, blue,Audi,A3,21506.10,0,2021-04-03,5.7
+Brent Johnson, orange,Audi,S3,22949.85,0,2021-11-26,6.9
+Joshua Calderon, purple,Kia,K5,27571.85,0,2016-05-01,4.9
+Wendy Fox, pink,Audi,A3,17764.56,0,2018-08-22,5.7
+Heather Gutierrez, grey,Tesla,Model Y,46628.85,0,2016-04-18,NULL
+George Howard, blu,Tesla,Model Y,32596.20,0,2020-11-22,NULL
+Timothy Morales, blue,BMW,F80,38219.26,14,2017-02-10,8.3
+Jennifer Hull, red,Audi,S3,40450.50,0,2018-12-30,6.9
+Andrea Campbell, grey,Audi,A3,30530.85,0,2021-03-10,5.7
+Alex Nelson, yellow,BMW,F30,42051.02,0,2020-12-10,2.0
+Mrs. Chelsea Bradley, yellow,Hyundai,Sonata,45822.95,5,2019-07-23,6.0
+Sophia Swanson, yellow,Hyundai,Sonata,41668.41,0,2021-07-12,6.0
+Kaitlyn Warren, green,Audi,RS3,17793.72,20,2021-12-25,7.5
+Michael Cabrera, grey,Hyundai,Avante,36734.25,0,2022-12-20,5.5
+Thomas Parker, yellow,Porsche,911,63965.88,0,2016-02-08,12.0
+Richard Lynn, yellow,Audi,RS3,30612.54,0,2022-02-22,7.5
+Kayla Stewart, purple,Kia,K5,21429.90,0,2015-09-02,4.9
+Rachel Jensen, orange,Audi,A3,23651.25,0,2021-12-06,5.7
+Michael Wise, yellow,Audi,A3,30885.20,0,2019-10-18,5.7
+Kyle Weiss, grey,Audi,S3,33872.40,0,2018-11-17,6.9
+Christine Duncan, blue,Audi,RS3,26380.90,9,2017-03-14,7.5
+Adrian Cabrera, purple,Audi,S3,26254.20,0,2022-06-25,6.9
+Nicholas Rivera, pink,BMW,F80,20795.94,0,2020-09-30,8.3
+Jesse Nguyen, blue,Tesla,Model S,56824.80,0,2018-08-27,NULL
+Harry Rogers, orange,Tesla,Model Y,29033.64,10,2015-06-10,NULL
+Regina Murphy, green,Audi,S3,36095.80,0,2019-06-08,6.9
+Robert Simon, purple,Audi,A3,31371.08,8,2019-03-13,5.7
+Olivia Gomez, pink,Hyundai,Sonata,19111.68,0,2020-01-31,6.0
+Ashley Morgan, green,BMW,M3,43660.05,0,2022-02-05,9.0
+Jamie Smith, pink,Porsche,911,29705.40,0,2015-10-17,12.0
+William Anderson, grey,Hyundai,Avante,39722.55,0,2021-03-03,5.5
+David Harding, yellow,Tesla,Model X,41066.42,10,2016-05-26,NULL
+John Riggs, purple,Lada,Vesta,12056.40,0,2015-07-03,7.3
+Nathaniel Taylor, purple,Audi,S3,19582.35,0,2016-06-01,6.9
+Jeremy Jackson, purple,Kia,Rio,19602.00,0,2018-09-26,3.1
+Keith Zhang, purple,Tesla,Model 3,48416.26,4,2022-02-07,NULL
+Ryan Murphy, pink,Lada,Vesta,9206.19,0,2021-04-30,7.3
+Craig Solomon, grey,Kia,Rio,34540.80,0,2018-07-14,3.1
+Valerie Schneider, pink,Audi,S3,15734.52,0,2015-07-17,6.9
+Miss Rebecca Andrews, green,Audi,S3,27155.00,0,2017-07-19,6.9
+Shaun Black, purple,Hyundai,Avante,40436.50,0,2019-11-20,5.5
+Linda Young, purple,Hyundai,Avante,28996.20,0,2020-08-08,5.5
+Jason Martinez, pink,Audi,RS3,21746.40,0,2019-02-17,7.5
+Nathan Schmidt, yellow,Lada,Samara,15418.57,0,2022-04-17,7.8
+Lisa Bailey, orange,bmv,F30,45687.20,0,2019-09-11,2.0
+Michele Taylor, orange,Audi,S3,21293.51,14,2015-05-27,6.9
+Stephanie Johnson, green,bmv,F80,35484.40,0,2016-09-23,8.3
+Kim Reed, blu,BMW,F80,39633.30,0,2020-06-19,8.3
+Patricia Flores, orange,Tesla,Model Y,41880.02,9,2017-04-30,NULL
+Timothy Singh, red,Tesla,Model 3,54487.13,0,2021-04-28,NULL
+Timothy Sanders, grey,Hyundai,Elantra,33188.00,0,2017-05-11,5.0
+Patrick Chase, green,Lada,Samara,18484.80,0,2018-12-10,7.8
+Philip Green, green,Lada,Vesta,17760.60,10,2018-04-24,7.3
+Stephen Evans, red,Lada,Kalina,18030.60,19,2017-04-30,6.7
+Bryan King, purple,Hyundai,Elantra,30766.50,0,2015-06-15,5.0
+Brandon Bowman, purple,Hyundai,Sonata,30872.00,0,2017-07-22,6.0
+Kathryn Scott, grey,Audi,S3,20074.50,0,2015-04-14,6.9
+Calvin Turner, pink,Hyundai,Sonata,14086.66,20,2020-06-12,6.0
+Leslie Elliott, blue,Tesla,Model 3,52102.70,0,2019-12-30,NULL
+Samantha Bird, purple,BMW,F30,39665.70,0,2020-08-08,2.0
+Jason Fowler, orange,Tesla,Model S,40941.20,0,2016-08-20,NULL
+Paula Fisher, pink,Lada,Kalina,8286.60,0,2017-07-05,6.7
+Sydney Williams, green,Hyundai,Avante,35047.40,0,2016-12-08,5.5
+Anita Gonzalez,grey,Tesla,Model 3,46847.00,0,2017-11-25,NULL
+Zachary Montes, red,BMW,F80,61294.50,0,2018-05-25,8.3
+Jorge Carter, yellow,Tesla,Model 3,44248.55,0,2017-10-05,NULL
+Erica Miller, orange,Lada,Samara,13465.20,0,2022-04-13,7.8
+Melissa Bowman, pink,Lada,Vesta,9273.33,0,2016-09-21,7.3
+Melissa Sanders, red,Tesla,Model X,69207.13,0,2019-07-01,NULL
+Melissa Bond, pink,Kia,K5,9889.03,1,2015-09-10,4.9
+Nicole Smith, orange,Tesla,Model X,33976.80,0,2020-01-14,NULL
+Charles Graves, red,Audi,RS3,26925.41,10,2015-02-03,7.5
+Gwendolyn Wilcox, blue,Lada,Samara,14200.20,0,2015-09-05,7.8
+Michelle Delgado, green,Kia,K5,23868.00,0,2020-02-05,4.9
+Edward Richardson II, blu,Kia,Rio,24199.20,0,2018-08-08,3.1
+Ronald Johnson, grey,Audi,A3,22500.00,0,2015-02-22,5.7
+Danielle Deleon, pink,Hyundai,Avante,18913.20,0,2017-02-07,5.5
+Bryan Frank, yellow,BMW,F80,33046.49,18,2017-03-24,8.3
+Victoria Mcbride, green,Lada,Samara,9811.90,13,2021-09-30,7.8
+Pamela Soto, blue,Lada,Kalina,10660.50,0,2020-06-14,6.7
+Victoria Henderson, grey,Lada,Kalina,13252.80,0,2018-11-02,6.7
+Kayla House, purple,Hyundai,Avante,36687.60,0,2018-04-13,5.5
+Timothy Brooks, orange,Audi,S3,24155.71,4,2022-06-01,6.9
+Jessica Bowman, green,BMW,M3,41066.55,0,2022-08-04,9.0
+Louis Jones, pink,Tesla,Model Y,31169.25,0,2021-08-06,NULL
+Ariel Parker,grey,Tesla,Model Y,47342.10,0,2019-02-04,NULL
+Stephen Jones, red,Hyundai,Elantra,54271.75,0,2019-01-22,5.0
+Sharon Leonard, green,Hyundai,Elantra,31281.00,0,2017-11-17,5.0
+Shannon Sullivan, pink,Kia,Rio,14872.68,6,2015-04-06,3.1
+Isaiah Burns, red,Tesla,Model X,48489.75,0,2020-12-27,NULL
+Michael Rose, purple,Audi,S3,22515.00,0,2017-01-12,6.9
+Daniel Avila, green,Lada,Samara,12998.52,18,2021-05-16,7.8
+Robert Jones, orange,Lada,Vesta,17460.30,0,2019-12-11,7.3
+Lawrence Castillo, yellow,BMW,F30,60703.44,0,2018-05-24,2.0
+Susan Salinas, grey,Kia,Rio,23074.20,0,2015-04-22,3.1
+Gloria Khan, grey,Tesla,Model X,41164.20,0,2022-04-13,NULL
+Gloria Khan, grey,Tesla,Model X,41164.20,0,2022-04-13,NULL
+Andrea Barnett, pink,Kia,Rio,14342.40,0,2015-12-24,3.1
+Christopher Anderson, green,Tesla,Model 3,41693.40,0,2021-10-14,NULL
+Andrea Edwards, red,Tesla,Model 3,64530.70,20,2019-08-24,NULL
+Lori Haynes, purple,Tesla,Model Y,55904.40,0,2018-05-28,NULL
+Barbara Norton, grey,Tesla,Model X,47371.20,0,2018-06-30,NULL
+Brian Snyder, green,Kia,Rio,25609.15,0,2016-07-16,3.1
+Tracy Terry, blue,Lada,Kalina,13803.60,0,2018-07-10,6.7
+Alexa Solis, blue,BMW,F80,54672.80,0,2019-08-29,8.3
+Carrie Wagner, purple,Hyundai,Elantra,32933.70,0,2015-08-08,5.0
+Jennifer Cross, red,Lada,Kalina,13987.20,7,2017-07-31,6.7
+Brittany Wilson, blue,Tesla,Model S,34355.70,0,2020-08-20,NULL
+Stephen Murray, pink,Lada,Samara,7991.62,3,2015-06-08,7.8
+Tara Davis, pink,Porsche,911,33583.14,0,2020-01-16,12.0
+Kenneth Ramirez, green,Hyundai,Avante,36837.15,0,2021-04-01,5.5
+Cynthia Brown, pink,BMW,F80,25538.44,1,2017-04-30,8.3
+Kevin Davidson, orange,BMW,F80,31780.80,0,2020-01-27,8.3
+David Dyer, green,Lada,Kalina,10377.90,0,2020-01-17,6.7
+Stacy Smith, blue,Tesla,Model Y,44757.35,0,2016-06-08,NULL
+Katherine Levy,grey,Hyundai,Sonata,40166.40,0,2018-12-07,6.0
+Amanda Young, yellow,BMW,F30,43563.15,0,2020-06-13,2.0
+Jamie Mitchell, pink,Audi,S3,13225.68,0,2020-12-12,6.9
+Jeff Martinez, green,Audi,S3,23542.16,6,2016-04-07,6.9
+David Fischer, purple,Kia,K5,19211.85,0,2021-12-21,4.9
+Manuel Fletcher, red,Hyundai,Sonata,40069.81,0,2016-05-14,6.0
+Debbie Buckley, red,Tesla,Model X,70617.00,0,2018-02-28,NULL
+Heather Vasquez, orange,Audi,A3,32925.60,0,2018-03-25,5.7
+Sara Nelson, purple,Hyundai,Elantra,38134.84,7,2018-08-23,5.0
+Frank Wilson, pink,Lada,Samara,6198.60,0,2017-07-04,7.8
+Eric Anderson, blue,AUDI,A3,28213.10,0,2016-01-07,5.7
+Beverly Dorsey, red,Tesla,Model 3,43499.21,6,2020-06-26,NULL
+Lori Miller, yellow,Audi,A3,29768.50,0,2022-09-03,5.7
+Trevor Rodriguez, purple,Kia,Rio,24188.90,0,2016-02-21,3.1
+Richard Krueger, orange,Lada,Vesta,17296.00,0,2017-06-05,7.3
+Michael Nelson, green,Tesla,Model 3,59469.80,0,2019-06-02,NULL
+Michael Snow, orange,Audi,S3,19146.80,15,2021-12-08,6.9
+Natalie Morrison, yellow,Kia,Rio,24135.95,14,2018-03-31,3.1
+Joshua Adams, blue,Audi,A3,34069.10,0,2019-01-08,5.7
+Andrea Harrison, green,Tesla,Model 3,36261.90,0,2015-12-31,NULL
+Michelle Stephens, green,Lada,Vesta,14359.80,0,2022-07-14,7.3
+Kevin Orr, red,Tesla,Model S,46625.63,0,2020-02-16,NULL
+Michelle Moran, pink,Lada,Vesta,10730.16,0,2018-11-25,7.3
+James Moody, green,Hyundai,Sonata,31739.40,0,2021-08-13,6.0
+Stephen Baker, grey,Kia,Rio,16708.60,0,2016-09-05,3.1
+Ricky Martin, pink,Tesla,Model S,23362.20,0,2017-06-01,NULL
+Carol Henry, pink,Tesla,Model Y,30541.74,0,2016-10-17,NULL
+Jennifer Shea, orange,BMW,F30,33724.80,0,2015-06-07,2.0
+Terry Kelly, yellow,Audi,S3,32354.23,1,2016-11-11,6.9
+Joseph White, pink,Audi,A3,14920.20,0,2017-10-19,5.7
+Richard Proctor, purple,Hyundai,Avante,28247.40,0,2015-09-12,5.5
+Brian Pittman, yellow,BMW,F30,47478.93,13,2019-12-29,2.0
+Mrs. Gloria Zimmerman, yellow,Tesla,Model S,60433.65,0,2017-11-15,NULL
+Debra Mcmahon, green,Porsche,911,72816.90,0,2019-06-15,12.0
+Amanda Osborn, yellow,Lada,Samara,25064.94,0,2018-09-21,7.8
+Jasmine Williams, purple,Audi,A3,24447.15,0,2022-10-13,5.7
+Julie Hudson, green,Tesla,Model 3,41177.70,0,2020-02-06,NULL
+Brian Bryant, yellow,Tesla,Model Y,46851.34,0,2015-02-05,NULL
+Joshua Rogers, purple,Lada,Kalina,16540.99,6,2018-06-24,6.7
+Isaiah Edwards, purple,Hyundai,Avante,32659.20,0,2020-03-04,5.5
+Becky Peterson, grey,Hyundai,Avante,35262.00,0,2017-01-23,5.5
+Ashley Hood MD, pink,Tesla,Model X,23577.12,0,2022-04-22,NULL
+Heidi Brown, red,Hyundai,Sonata,54719.76,5,2019-07-10,6.0
+Sabrina Myers, yellow,BMW,F80,40084.92,0,2016-08-01,8.3
+Christine Dennis, yellow,BMW,F30,46349.89,0,2021-03-17,2.0
+Vanessa Hernandez, red,Hyundai,Elantra,52467.00,0,2018-10-01,5.0
+Michael Jimenez, yellow,Lada,Kalina,13896.95,0,2015-06-14,6.7
+Beth Anderson, green,Audi,A3,28936.80,0,2018-01-11,5.7
+Evelyn Nichols, yellow,Tesla,Model Y,56017.94,0,2016-07-13,NULL
+John Wade, blue,BMW,F80,43485.00,0,2017-07-09,8.3
+Ryan Anderson, grey,Tesla,Model X,51299.12,18,2019-11-15,NULL
+Thomas West, blue,Porsche,911,73944.00,0,2018-10-31,12.0
+John Bennett, orange,Tesla,Model 3,59984.40,0,2018-03-20,NULL
+Christopher Bowman, purple,Tesla,Model Y,34135.20,0,2015-02-07,NULL
+John Park, blue,Audi,S3,19837.57,13,2021-05-14,6.9
+Karen Nolan, red,Audi,RS3,28415.00,0,2017-03-09,7.5
+Andrew Ellis, red,Hyundai,Elantra,40661.25,0,2022-04-06,5.0
+Larry Delgado, purple,Lada,Vesta,18150.00,0,2017-08-07,7.3
+Tony Gross, yellow,Hyundai,Elantra,37693.67,0,2020-11-26,5.0
+James Jones, purple,BMW,F30,36092.00,0,2017-06-25,2.0
+Melissa Alexander, orange,AUDI,S3,26094.00,0,2017-08-30,6.9
+Amy Wilson, red,BMW,M3,40459.50,0,2020-03-29,9.0
+Brenda Jenkins, orange,Kia,Rio,21897.50,0,2016-09-30,3.1
+Albert Harris, purple,BMW,F30,39576.60,0,2021-10-15,2.0
+Christian Blair, blue,Tesla,Model 3,49202.40,0,2019-09-01,NULL
+April Harris, yellow,BMW,F30,61861.61,0,2019-01-03,2.0
+Diane Griffin, yellow,AUDI,A3,30510.77,0,2020-03-03,5.7
+Kristin Williams, grey,BMW,M3,44232.00,0,2018-10-17,9.0
+Brianna Thompson, yellow,Kia,K5,20063.48,0,2020-08-24,4.9
+Ryan Patterson, grey,Hyundai,Elantra,43231.20,0,2018-04-14,5.0
+Jason Garcia, red,Kia,Rio,22501.13,0,2020-06-09,3.1
+Darlene Hardy, yellow,Hyundai,Elantra,41093.64,0,2022-07-29,5.0
+Jason Carter, orange,BMW,F30,33273.41,4,2016-02-20,2.0
+Benjamin Ballard, purple,Porsche,911,58553.10,0,2020-02-29,12.0
+Jessica Lane, yellow,Tesla,Model X,52629.98,0,2019-03-18,NULL
+Kevin White, purple,Audi,S3,26195.30,0,2016-03-17,6.9
+Deborah Taylor, red,Kia,K5,38456.25,0,2022-12-25,4.9
+Curtis Moore, orange,Lada,Kalina,19553.30,0,2019-09-09,6.7
+Matthew Marshall, green,Audi,A3,28910.00,0,2017-08-22,5.7
+Barbara Taylor, green,Audi,S3,27165.60,0,2018-06-18,6.9
+William Hess, green,BMW,F80,48421.20,0,2018-07-04,8.3
+Brian Ellis, green,Audi,A3,22959.00,0,2015-03-13,5.7
+Tammy Anderson, red,BMW,F80,56050.00,0,2017-01-12,8.3
+Teresa Atkins, red,Lada,Kalina,12164.63,0,2020-03-13,6.7
+Robert Morris, pink,Audi,A3,16014.78,0,2020-03-06,5.7
+Matthew King, orange,Audi,A3,24219.64,3,2020-09-26,5.7
+Tonya Brown, orange,Audi,S3,29955.45,0,2021-01-30,6.9
+Danny Bentley, pink,Tesla,Model X,26279.10,0,2020-01-17,NULL
+Terri Green, blue,Hyundai,Elantra,29762.10,0,2015-02-10,5.0
+Lori Taylor, green,Audi,RS3,21299.88,16,2017-05-16,7.5
+Ronald Holmes, green,Tesla,Model X,34217.10,0,2016-08-02,NULL
+Megan Perkins, yellow,BMW,M3,47080.20,0,2016-02-13,9.0
+James Serrano, purple,Kia,K5,13770.83,18,2022-06-08,4.9
+Amanda Fernandez, red,Tesla,Model X,42819.30,20,2020-03-23,NULL
+Stephen Welch, green,Hyundai,Sonata,28227.60,0,2020-04-25,6.0
+Robert Diaz, purple,Tesla,Model S,60892.80,0,2018-09-20,NULL
+Alisha Hale, yellow,Hyundai,Avante,55631.94,0,2019-05-12,5.5
+Alyssa Mercado, orange,Tesla,Model X,47511.90,0,2015-05-31,NULL
+Amber Baldwin, orange,Kia,K5,20779.00,0,2017-05-19,4.9
+Walter Johnson, yellow,Kia,Rio,30812.87,0,2016-07-08,3.1
+April Todd, red,Tesla,Model Y,59910.56,0,2016-04-10,NULL
+Paula Richards, grey,Lada,Kalina,14155.65,6,2019-01-10,6.7
+Eric Ross, yellow,Kia,Rio,23617.49,0,2021-05-31,3.1
+Austin Howard, red,Tesla,Model 3,52978.50,0,2020-04-02,NULL
+Laurie Mcdonald, yellow,Lada,Kalina,11670.20,0,2017-01-05,6.7
+Robert Gilmore, orange,BMW,F80,33806.27,1,2016-08-28,8.3
+Richard Sharp, blue,Porsche,911,52936.20,0,2020-02-12,12.0
+Amanda Hatfield,grey,Porsche,911,66965.47,4,2021-10-21,12.0
+Adam Friedman, yellow,Lada,Kalina,13672.52,0,2021-07-19,6.7
+Brian Avila, yellow,Kia,Rio,27863.06,0,2021-01-16,3.1
+William Aguilar, purple,BMW,F80,43603.00,0,2017-10-01,8.3
+Makayla Sanchez, orange,Audi,S3,21052.80,14,2015-08-09,6.9
+Michelle Cabrera, orange,Hyundai,Elantra,33804.90,0,2020-03-20,5.0
+Michael Schmidt, orange,Tesla,Model 3,43236.00,0,2020-05-12,NULL
+Dana Turner, red,Hyundai,Sonata,36597.38,0,2020-01-31,6.0
+Laura Mcmahon, blue,Tesla,Model 3,66041.30,0,2019-11-14,NULL
+Eric Gibson, grey,Hyundai,Elantra,34700.40,0,2022-10-01,5.0
+Lauren Hart, grey,Hyundai,Sonata,30502.60,0,2016-01-11,6.0
+Samuel Walker, yellow,Tesla,Model Y,48902.72,0,2020-09-04,NULL
+Alexander Le, blue,Audi,A3,22154.40,0,2015-06-09,5.7
+Alicia Mejia, green,Porsche,911,67813.04,7,2021-09-09,12.0
+Jason Baker, red,Tesla,Model X,45309.38,0,2015-07-09,NULL
+Ashley Barrett, red,Hyundai,Elantra,39182.63,0,2020-10-14,5.0
+Jennifer Rodriguez, yellow,Lada,Vesta,16370.08,0,2022-11-01,7.3
+Donald Carr, pink,Tesla,Model 3,25866.54,0,2020-03-01,NULL
+Paul Townsend, purple,Porsche,911,67317.60,0,2018-11-13,12.0
+Andrea Butler, blue,Hyundai,Elantra,24873.91,16,2015-11-29,5.0
+Steven Gallegos, pink,Tesla,Model X,28408.59,0,2021-04-13,NULL
+John Duran, blue,Kia,K5,24567.30,0,2015-01-15,4.9
+David Walsh, purple,Tesla,Model Y,46740.20,0,2019-05-13,NULL
+Michele Hopkins, purple,Kia,K5,17678.85,0,2021-02-17,4.9
+Andrew Reilly, grey,Lada,Samara,15910.80,0,2018-12-15,7.8
+Sean Fritz, purple,Lada,Kalina,15084.90,0,2020-04-06,6.7
+Kylie Matthews, yellow,Tesla,Model X,39406.59,0,2015-02-01,NULL
+Andrea Adkins, orange,Tesla,Model S,55923.00,0,2021-08-26,NULL
+Melanie Neal, red,Porsche,911,64037.25,0,2015-10-14,12.0
+Jason Berger, pink,BMW,F80,22052.22,4,2015-08-14,8.3
+Cody Werner, pink,Tesla,Model X,22339.80,0,2022-02-14,NULL
+Dominic Perez, green,Lada,Samara,11006.40,3,2016-07-04,7.8
+Stephanie Smith, grey,Lada,Vesta,16244.55,0,2022-02-27,7.3
+Kristen Klein, purple,Hyundai,Elantra,30987.00,0,2017-02-03,5.0
+Patrick Simmons, grey,BMW,F30,39346.65,0,2021-02-19,2.0
+Stefanie Carey, grey,Hyundai,Elantra,33522.00,0,2017-04-23,5.0
+Peter Gutierrez, red,Hyundai,Elantra,60255.00,0,2019-05-28,5.0
+Jonathan Smith, red,Lada,Samara,16900.50,0,2016-12-23,7.8
+Tammie Williams, red,Kia,Rio,21107.50,0,2017-03-16,3.1
+John Robinson, pink,Kia,K5,14335.92,0,2018-11-27,4.9
+Jessica Winters, yellow,Audi,RS3,32367.04,0,2021-06-16,7.5
+Raymond Myers, red,Kia,K5,29902.50,0,2020-03-06,4.9
+Laura Castro, orange,Lada,Kalina,11693.00,0,2017-04-05,6.7
+Christopher Cohen, blue,Tesla,Model S,47729.85,0,2021-06-24,NULL
+Jacqueline Schaefer, pink,Audi,S3,13066.92,0,2015-08-03,6.9
+Denise Rodriguez, grey,BMW,F80,48906.00,0,2018-08-30,8.3
+Andrew Williams, yellow,Lada,Vesta,19084.02,0,2018-04-27,7.3
+Michael Coleman, purple,Audi,S3,26373.90,0,2016-04-30,6.9
+Levi Duarte, grey,Audi,RS3,21164.10,0,2016-08-24,7.5
+Bruce Brewer, grey,Tesla,Model Y,32201.10,0,2015-01-06,NULL
+Blake Turner, orange,Kia,K5,27791.40,0,2022-12-06,4.9
+Elizabeth Coleman, purple,BMW,F80,37789.50,0,2022-03-31,8.3
+Dr. Maria Gross MD, pink,Lada,Kalina,12109.50,0,2019-06-23,6.7
+Laura Smith, yellow,Lada,Vesta,13091.71,0,2020-12-04,7.3
+James Young, green,Tesla,Model S,39777.15,0,2022-10-11,NULL
+Heidi Dixon, orange,Hyundai,Sonata,32231.85,0,2022-12-22,6.0
+Elizabeth Hunter, pink,BMW,F30,23774.94,0,2021-05-26,2.0
+Alexis Ward, yellow,BMW,M3,53441.77,0,2019-10-26,9.0
+Eduardo Marshall, blue,Tesla,Model X,35853.95,0,2016-04-06,NULL
+Katie Lee, yellow,Tesla,Model X,54110.95,0,2017-08-22,NULL
+Evan Terry, purple,Hyundai,Avante,28961.10,0,2015-11-21,5.5
+Ashley Mccarthy, pink,BMW,F80,25012.17,0,2016-01-30,8.3
+Jennifer Moses, red,BMW,F80,48843.06,0,2016-02-14,8.3
+Zachary Robinson, green,Kia,Rio,26966.10,0,2022-06-22,3.1
+Joshua Sheppard, pink,Lada,Samara,9213.48,0,2015-01-02,7.8
+Alice Martinez, green,BMW,F80,39146.65,0,2016-08-24,8.3
+Jennifer Bell, pink,Lada,Vesta,9765.36,0,2018-12-09,7.3
+Russell Randall, orange,Tesla,Model S,42392.70,0,2020-04-06,NULL
+Paul Perry, green,Hyundai,Sonata,33367.80,0,2016-01-31,6.0
+Stephanie Todd, yellow,Hyundai,Avante,38803.19,0,2020-09-28,5.5
+Allison Martinez, grey,BMW,F30,46590.70,0,2019-01-01,2.0
+Kimberly Conner, pink,Hyundai,Sonata,18461.40,0,2017-05-19,6.0
+Tracy Knight, red,Kia,K5,41028.00,0,2018-08-19,4.9
+Derrick Leach Jr., green,Audi,A3,17635.18,17,2020-02-06,5.7
+Joshua Osborne, orange,BMW,F80,33668.10,0,2020-02-24,8.3
+Robert Powell, green,Tesla,Model 3,44295.30,0,2015-08-26,NULL
+Melissa Smith, yellow,BMW,M3,43596.21,0,2016-05-21,9.0
+Jordan Goodwin, green,Lada,Kalina,16056.90,0,2015-07-29,6.7
+Kimberly Velasquez, red,Hyundai,Elantra,39587.50,0,2017-07-16,5.0
+Terry Zamora, grey,Tesla,Model Y,39833.10,0,2020-08-11,NULL
+Kathryn Merritt, yellow,Audi,S3,28480.09,0,2022-07-16,6.9
+Jessica Jacobs, purple,Porsche,911,61963.65,0,2021-05-18,12.0
+Robert Johnson, grey,Hyundai,Sonata,28690.00,0,2016-01-11,6.0
+Taylor Vasquez, purple,Audi,RS3,23082.00,0,2017-01-30,7.5
+Brian Brown, orange,Porsche,911,52180.44,17,2017-06-18,12.0
+Donald Reed, orange,Audi,A3,20309.58,13,2016-05-31,5.7
+Amanda Wells, blue,Kia,K5,29696.40,0,2018-11-23,4.9
+Stephanie Henry, yellow,Audi,A3,20573.81,19,2022-12-26,5.7
+Tiffany Turner, purple,BMW,F30,45691.67,1,2018-05-05,2.0
+Brooke Haley, purple,BMW,F30,32465.70,0,2015-12-01,2.0
+Gregory Marshall, grey,Hyunday,Sonata,37968.76,6,2019-05-08,6.0
+Douglas Meyer, red,Tesla,Model X,43560.56,9,2020-01-03,NULL
+Steven Brennan, red,Kia,K5,18069.75,0,2020-07-26,4.9
+Linda Johnston, yellow,Lada,Vesta,11092.69,11,2017-04-28,7.3
+Victoria Martinez, pink,Audi,A3,18865.12,5,2019-03-26,5.7
+Adam Nicholson, yellow,Porsche,911,92512.10,0,2019-09-14,12.0
+Lauren Rhodes, grey,Tesla,Model X,56101.20,0,2018-06-09,NULL
+Katie Clements, purple,Porsche,911,58753.48,14,2017-10-21,12.0
+Audrey Nguyen, purple,Tesla,Model S,50323.20,0,2018-09-23,NULL
+Bryan Jackson, orange,Tesla,Model 3,48702.00,0,2018-06-24,NULL
+Mrs. Mary Adams, yellow,Audi,RS3,35222.78,0,2021-12-11,7.5
+Craig Johnson, red,Tesla,Model Y,55121.06,0,2021-02-17,NULL
+Mathew Hernandez, pink,Tesla,Model Y,32785.83,0,2022-12-17,NULL
+John Mcdonald, purple,Audi,S3,19005.30,0,2020-09-14,6.9
+Jessica Walker, red,Tesla,Model 3,58845.94,0,2021-05-09,NULL
+Rhonda Sanders, blue,Audi,A3,24202.20,0,2016-02-16,5.7
+Joseph Ramirez, grey,BMW,F80,45008.25,0,2021-01-14,8.3
+Cassidy Robinson, green,BMW,F30,49092.00,0,2018-11-02,2.0
+Micheal Walsh, orange,Lada,Kalina,21465.60,0,2019-02-15,6.7
+Keith Lee, red,Lada,Kalina,15115.50,0,2018-02-04,6.7
+Rhonda Casey, red,Tesla,Model 3,65403.00,0,2018-06-30,NULL
+Christy Haas DVM, pink,Tesla,Model 3,24364.26,0,2020-03-18,NULL
+Jennifer Murray, pink,Audi,A3,16376.10,0,2019-07-27,5.7
+Ryan Henderson, pink,Porsche,911,36197.28,0,2016-06-23,12.0
+Richard Williams, orange,Porsche,911,71855.70,0,2021-03-02,12.0
+Renee Farrell, purple,Tesla,Model X,40499.10,0,2015-11-09,NULL
+Vanessa Vasquez, orange,BMW,F80,37948.50,0,2020-07-21,8.3
+Alyssa Holt, purple,Kia,K5,25944.45,0,2021-02-17,4.9
+James Fields, grey,Tesla,Model Y,41452.20,0,2015-03-16,NULL
+George Wright, yellow,Tesla,Model S,51533.80,0,2017-06-02,NULL
+Jennifer Sloan, grey,Lada,Vesta,21180.00,0,2018-04-12,7.3
+Steven Lamb, pink,Audi,RS3,18831.33,0,2022-11-15,7.5
+David Booker, green,Audi,A3,22394.40,0,2022-05-04,5.7
+Stephanie Weber, yellow,Tesla,Model S,60272.36,0,2022-10-07,NULL
+Michael Holmes, red,BMW,F80,72666.75,0,2019-10-06,8.3
+Lisa Anderson, purple,Tesla,Model S,41573.13,3,2021-11-03,NULL
+Katherine Wright, orange,Kia,Rio,31358.25,0,2022-07-25,3.1
+Robert Little, pink,Hyundai,Elantra,26203.68,0,2018-05-25,5.0
+Joseph French, orange,Hyundai,Avante,36706.95,0,2021-08-15,5.5
+Kristin Anderson, orange,Lada,Samara,18517.50,9,2019-10-27,7.8
+Barbara Villegas, blue,Audi,S3,35785.10,0,2019-03-09,6.9
+Jerry Aguirre, pink,Tesla,Model 3,30117.00,0,2017-11-20,NULL
+Victor Grant, yellow,Kia,Rio,27163.57,0,2015-09-09,3.1
+Aaron Montgomery, yellow,BMW,M3,39026.74,0,2020-04-17,9.0
+Collin Lewis, yellow,Lada,Vesta,14627.55,6,2020-12-15,7.3
+Todd Robertson, purple,BMW,M3,44478.00,0,2022-05-30,9.0
+Kelsey Hughes, red,Audi,A3,24727.31,0,2016-03-10,5.7
+Erika Hall, green,Tesla,Model S,55069.98,5,2018-07-01,NULL
+Rachel Johnson, green,Tesla,Model S,34306.20,0,2020-06-14,NULL
+Ronald Calderon, purple,Audi,RS3,27139.20,0,2018-08-20,7.5
+Linda Mendez, pink,Audi,A3,21478.32,0,2018-08-18,5.7
+Anthony Richardson, grey,Porsche,911,75597.60,0,2019-11-23,12.0
+Molly Odom, blue,Hyundai,Avante,31708.95,0,2021-07-30,5.5
+Catherine Garcia, red,Tesla,Model Y,55729.38,0,2016-03-27,NULL
+Bailey Guzman, pink,Hyundai,Elantra,19795.20,0,2017-08-11,5.0
+Frances Logan, green,Audi,A3,29150.57,13,2018-05-18,5.7
+Tina Stark, red,BMW,M3,50146.88,0,2020-10-06,9.0
+Steven Gentry Jr., pink,Hyundai,Avante,22054.20,0,2017-04-22,5.5
+Holly Harris, orange,Hyunday,Elantra,32254.00,0,2017-07-31,5.0
+Juan Simmons, blue,Tesla,Model 3,47628.00,0,2018-07-26,NULL
+Kimberly Daniels, blue,Kia,K5,34729.20,0,2018-08-17,4.9
+Matthew Griffin, yellow,Audi,A3,28791.63,0,2015-08-29,5.7
+Sierra Weaver, yellow,Audi,S3,26993.84,0,2015-12-07,6.9
+Jonathan Thompson, grey,Lada,Kalina,14526.75,0,2021-04-05,6.7
+John Wilson, orange,Kia,K5,24869.00,0,2019-05-18,4.9
+Shawn Ray, green,Kia,Rio,15384.30,0,2016-07-23,3.1
+Mary Perez, orange,Hyundai,Sonata,38700.00,0,2018-02-05,6.0
+Jennifer Mccullough MD, red,Audi,A3,26554.50,0,2022-07-22,5.7
+Timothy Andrews, green,Audi,S3,20236.50,0,2015-01-08,6.9
+Jacqueline Cooper, red,BMW,F80,49898.63,0,2021-04-04,8.3
+Richard Zhang, purple,Kia,Rio,19995.86,18,2022-05-06,3.1
+Jason Brown, green,Hyundai,Elantra,41940.00,0,2018-09-06,5.0
+Michelle Hernandez, blue,Kia,Rio,21258.00,0,2017-05-03,3.1
+Jason Hawkins, yellow,Porsche,911,78290.16,0,2018-04-09,12.0
+Rachel Austin, red,Hyundai,Elantra,34114.22,15,2015-07-08,5.0
+Dr. Brian Duncan, blue,Hyundai,Elantra,32379.30,0,2020-05-03,5.0
+Troy Kelly, red,Audi,RS3,27439.56,0,2016-02-16,7.5
+Jennifer Austin, pink,Hyundai,Sonata,21756.42,0,2022-10-18,6.0
+Amy Bradley, green,BMW,M3,45444.00,0,2022-07-07,9.0
+Gina Martin, grey,Audi,A3,26000.40,0,2018-10-06,5.7
+Kathleen Dodson, green,BMW,M3,38973.00,0,2017-09-08,9.0
+Mrs. Heather Hutchinson MD, pink,Hyundai,Avante,16771.86,0,2015-06-14,5.5
+Tyler Walker, green,Audi,RS3,26971.20,0,2018-02-18,7.5
+Jason Leon, purple,Tesla,Model S,44584.45,0,2016-11-01,NULL
+Patricia Christensen, orange,Kia,Rio,24393.60,0,2020-08-09,3.1
+Anna Davis, yellow,Audi,RS3,40153.76,1,2019-07-12,7.5
+Samuel Ellis, grey,Tesla,Model X,26151.12,20,2020-03-13,NULL
+Walter Smith, pink,BMW,F80,25467.60,0,2017-01-14,8.3
+Amy Thomas, blue,BMW,F80,41767.95,0,2022-12-21,8.3
+Jon Smith, grey,BMW,F80,45922.80,0,2021-01-09,8.3
+Sherri Russell, orange,Lada,Samara,16222.70,0,2019-07-02,7.8
+Mark Smith, yellow,Lada,Kalina,17662.10,0,2021-12-18,6.7
+Katherine Jones, yellow,Lada,Kalina,13894.81,19,2015-07-23,6.7
+Meagan Jackson, pink,Kia,K5,15667.56,0,2015-02-21,4.9
+Kathleen Cantu, blue,BMW,M3,34824.15,0,2016-04-10,9.0
+Brian Cruz, green,Kia,K5,26002.20,0,2021-08-27,4.9
+Kyle Smith, blue,Lada,Kalina,17227.35,0,2022-12-29,6.7
+Zachary Buckley, blue,Audi,RS3,18840.38,4,2015-04-17,7.5
+Dr. Craig Henderson, yellow,BMW,M3,42631.36,13,2021-04-09,9.0
+Danielle Schmidt, orange,BMW,F80,44119.00,0,2017-08-31,8.3
+Shannon Garrison, blue,BMW,F80,41518.80,0,2016-11-24,8.3
+Robert Sanchez, pink,Porsche,911,37597.14,0,2022-02-23,12.0
+Stephen Ward, red,Audi,A3,29438.13,0,2016-05-22,5.7
+Katrina Brown, red,Porsche,911,69466.25,0,2017-08-01,12.0
+Jenna Garcia, pink,BMW,F30,32682.78,0,2019-03-25,2.0
+Diana Johnson, grey,Hyundai,Avante,26251.64,13,2015-05-07,5.5
+Kelly Lyons, green,Kia,K5,18881.10,0,2021-12-18,4.9
+James Gray, red,Hyundai,Sonata,39843.56,0,2021-03-29,6.0
+Joe Flynn, pink,Kia,Rio,14249.51,9,2017-07-31,3.1
+David Ruiz, green,BMW,F30,46839.60,0,2018-12-20,2.0
+Victoria Wright, red,Tesla,Model Y,50229.59,8,2015-05-27,NULL
+Martin Cunningham, orange,Audi,S3,26042.40,0,2020-07-24,6.9
+Melissa Bridges, pink,Hyundai,Avante,22830.85,11,2019-03-06,5.5
+Shawn Cole MD, blue,Kia,K5,22055.80,0,2019-03-24,4.9
+Sean Roberts, green,Tesla,Model X,67568.80,0,2019-01-07,NULL
+Lisa Stewart, purple,Porsche,911,57735.00,0,2020-01-07,12.0
+Carrie Young, pink,Hyundai,Sonata,19788.69,0,2016-09-25,6.0
+Kenneth Holt, pink,BMW,F80,25625.88,0,2021-09-05,8.3
+Wendy Blair, pink,Hyundai,Avante,19819.80,0,2022-11-24,5.5
+Tracy Price, pink,Lada,Vesta,10940.58,5,2022-09-29,7.3
+Shane Garcia, orange,Tesla,Model X,32158.80,0,2015-01-29,NULL
+Thomas Moore, blue,Hyunday,Avante,37079.70,0,2021-07-25,5.5
+Juan Hernandez, pink,Tesla,Model X,36313.20,0,2018-04-13,NULL
+Christina Nielsen, blue,Audi,S3,25990.80,0,2018-10-21,6.9
+Brittany Perez, yellow,Audi,A3,40248.39,0,2019-10-19,5.7
+Kristin Carter, pink,Porsche,911,27263.14,19,2015-07-13,12.0
+Todd Ruiz, blue,Porsche,911,50314.76,9,2016-05-14,12.0
+Mr. Joseph Mitchell, yellow,Hyundai,Elantra,44594.18,0,2021-03-29,5.0
+Casey Lewis, green,Lada,Kalina,16511.00,0,2016-04-02,6.7
+Lisa Flores, red,Tesla,Model 3,60558.35,7,2018-08-26,NULL
+Cole Coleman, yellow,Audi,A3,25080.35,0,2017-02-24,5.7
+Kylie Garcia, grey,Lada,Samara,12309.72,5,2018-05-23,7.8
+Sara Le, orange,Hyundai,Avante,37755.90,0,2022-05-17,5.5
+Kevin Thomas, pink,Hyundai,Elantra,23894.64,0,2018-09-16,5.0
+Stephanie Anderson, green,Audi,A3,22113.44,17,2020-11-16,5.7
+Brian Hayes, purple,BMW,M3,41974.80,0,2021-05-08,9.0
+Lisa Bowen, orange,Hyundai,Sonata,30127.35,0,2016-08-26,6.0
+Mrs. Renee Brooks, purple,Kia,K5,27331.00,0,2017-03-24,4.9
+Christina Cross, yellow,Hyundai,Sonata,55747.06,0,2019-05-16,6.0
+Monica Medina, yellow,Porsche,911,85898.10,0,2018-09-21,12.0
+Christine Durham, grey,Lada,Samara,10830.60,0,2020-09-26,7.8
+Jorge Wolfe, red,Lada,Kalina,19063.53,3,2016-06-11,6.7
+Kimberly Mcknight, grey,Lada,Samara,11316.98,18,2021-06-22,7.8
+Mackenzie Williams, yellow,Audi,RS3,44353.66,0,2019-02-05,7.5
+Joseph Nolan, orange,BMW,F80,46690.80,0,2019-11-05,8.3
+Kevin Jones, yellow,Porsche,911,60838.34,0,2020-10-16,12.0
+Jose Carter, blue,Lada,Kalina,9793.60,7,2016-04-06,6.7
+David Gonzales, purple,Audi,RS3,22685.40,0,2020-05-29,7.5
+Jason Murphy, green,BMW,M3,43465.80,0,2022-08-07,9.0
+Anna Gomez, blue,Lada,Samara,17896.80,0,2018-12-18,7.8
+Gerald Campbell, purple,Tesla,Model 3,44720.55,0,2022-01-15,NULL
+Debra Taylor, pink,Audi,S3,14035.11,0,2016-12-19,6.9
+Kyle Ruiz, blue,Lada,Vesta,16780.00,0,2017-03-08,7.3
+Jose Richardson, red,Hyundai,Elantra,43196.18,7,2017-09-11,5.0
+Rodney Wong, purple,Tesla,Model Y,47548.80,0,2019-03-29,NULL
+Felicia White, purple,Tesla,Model S,44517.90,0,2021-05-22,NULL
+Joseph Freeman, orange,Lada,Vesta,15905.40,0,2021-12-11,7.3
+Michael Moore, purple,Lada,Vesta,14167.40,0,2019-01-20,7.3
+Carlos Watson, blue,Lada,Vesta,16365.30,0,2021-05-11,7.3
+Dawn Montgomery, grey,Lada,Vesta,12664.80,0,2020-12-20,7.3
+Mark Villegas, green,Hyundai,Elantra,33532.00,0,2017-03-04,5.0
+Tyler Frey, yellow,Tesla,Model Y,40317.85,0,2017-03-12,NULL
+Rhonda Reyes, red,Kia,Rio,30776.81,0,2021-09-12,3.1
+Mrs. Haley Mccoy, grey,BMW,F80,42441.25,0,2016-12-19,8.3
+Ashley Yang, purple,BMW,F80,46826.85,0,2022-09-21,8.3
+Jacqueline Lopez, yellow,Audi,RS3,28259.12,0,2022-09-27,7.5
+Kathleen Villanueva, orange,Tesla,Model 3,41310.15,0,2022-04-19,NULL
+Caitlin Cook, purple,Porsche,911,77127.70,0,2019-07-22,12.0
+Jennifer Cooper, green,Tesla,Model 3,61436.40,0,2018-07-16,NULL
+Kelly Robinson, blue,Kia,K5,19917.90,0,2015-10-17,4.9
+Tyler Dougherty, grey,Tesla,Model Y,60753.60,0,2018-08-02,NULL
+Charles Carroll, yellow,BMW,F80,43933.68,0,2015-08-16,8.3
+Brandon Patel, red,BMW,M3,49747.79,7,2021-03-31,9.0
+Mary Moore, grey,BMW,F30,39252.60,0,2020-03-01,2.0
+Brandi Williams, blue,Audi,A3,24041.70,0,2015-04-08,5.7
+Evelyn Valencia, red,Lada,Kalina,17437.50,0,2020-06-08,6.7
+Timothy Young, yellow,Kia,K5,25587.27,0,2020-01-05,4.9
+Michael Ramirez, green,Kia,Rio,17539.20,0,2020-05-30,3.1
+Eric Burton, pink,BMW,F80,22885.20,0,2017-10-23,8.3
+Ralph Smith, yellow,Porsche,911,89224.59,0,2019-01-31,12.0
+David Bowen, yellow,Tesla,Model S,50958.57,0,2016-10-14,NULL
+Nicholas Garner, green,Tesla,Model X,58076.40,0,2018-07-24,NULL
+Kevin Holt, green,Hyundai,Avante,32972.10,0,2021-09-04,5.5
+Patrick Rice, yellow,Lada,Samara,14335.44,0,2022-10-03,7.8
+Marvin Silva, pink,BMW,F80,20838.60,0,2015-11-11,8.3
+Sandra Davis, red,Lada,Samara,24370.15,2,2017-03-08,7.8
+Linda Nelson, purple,Lada,Kalina,11933.00,0,2017-10-27,6.7
+Elizabeth Flores, green,Audi,RS3,19187.10,0,2020-07-26,7.5
+Leslie Carlson, purple,BMW,F80,43258.95,0,2022-11-19,8.3
+Jill Hooper, orange,Tesla,Model S,54814.20,0,2022-12-04,NULL
+John Ortiz, blue,Lada,Vesta,10300.50,0,2015-08-31,7.3
+Wendy Rivera, blue,BMW,M3,45151.20,0,2018-01-26,9.0
+Stephanie Gutierrez, yellow,Tesla,Model Y,69226.32,0,2018-01-31,NULL
+Timothy Carlson, pink,Hyundai,Avante,18324.60,0,2017-03-15,5.5
+Maria Ellis, orange,Hyundai,Elantra,32013.00,0,2017-12-08,5.0
+Matthew Alexander, green,Audi,S3,33667.20,0,2018-06-25,6.9
+Larry White, pink,Kia,K5,15986.10,0,2019-11-15,4.9
+April Morrow, pink,Lada,Vesta,10638.00,0,2018-01-08,7.3
+Cassandra Good, purple,Audi,S3,32247.60,0,2018-02-10,6.9
+Mary Bailey, green,Tesla,Model 3,55353.90,0,2022-06-23,NULL
+Sean Wyatt, green,BMW,F80,55291.60,0,2019-03-21,8.3
+Jessica Price, red,Kia,Rio,27333.18,2,2018-11-05,3.1
+Nathan Faulkner, blue,Lada,Samara,18035.75,0,2016-04-19,7.8
+Megan Williams, red,Audi,S3,32917.63,0,2019-03-17,6.9
+Brittany Kim, red,Lada,Vesta,17895.63,0,2016-01-26,7.3
+Joy Miller, grey,Tesla,Model Y,52570.35,0,2021-02-22,NULL
+Barbara Day, purple,Lada,Samara,9971.10,0,2020-08-24,7.8
+Olivia Dixon, purple,Audi,S3,29339.10,0,2021-01-06,6.9
+Angela Davis, grey,Lada,Vesta,18771.48,10,2021-06-10,7.3
+Daniel Norton, red,Tesla,Model 3,67864.88,0,2019-11-23,NULL
+Jessica Fischer, orange,Tesla,Model S,48662.00,0,2017-04-20,NULL
+Deborah Nelson, purple,Audi,S3,25358.40,0,2015-01-31,6.9
+James Lutz, orange,BMW,F80,38539.00,0,2017-07-26,8.3
+Shane Hawkins, yellow,Porsche,911,79493.52,0,2018-05-02,12.0
+Cody Greer, orange,Hyundai,Sonata,43637.10,0,2019-11-04,6.0
+Shawn Johnson, blue,BMW,F80,41907.35,0,2016-02-26,8.3
+Christina Miller, green,Audi,S3,23563.80,0,2020-03-14,6.9
+Sherry Kennedy, purple,Audi,RS3,21595.50,0,2020-09-26,7.5
+Breanna Wallace, pink,Tesla,Model 3,20488.65,0,2016-03-31,NULL
+Mary Willis, orange,Tesla,Model S,43267.66,5,2016-10-03,NULL
+Kristin Mcdonald, grey,Lada,Samara,18265.92,4,2017-02-15,7.8
+Pamela Glass, yellow,Porsche,911,75181.36,0,2021-06-24,12.0
+Ronald Brown, yellow,Lada,Vesta,22175.87,7,2018-04-01,7.3
+Shannon Clements, green,Lada,Kalina,23755.20,0,2018-06-06,6.7
+Yolanda Wilson, purple,Audi,S3,21833.70,0,2022-02-28,6.9
+Joshua Robinson, green,BMW,M3,34520.60,2,2020-04-07,9.0
+Sabrina Heath, grey,Porsche,911,44602.49,16,2015-10-14,12.0
+Michelle Richardson, red,Lada,Samara,13895.44,0,2021-07-27,7.8
+Rhonda Simmons, blue,BMW,M3,43171.00,0,2017-05-01,9.0
+Kathleen Duncan, orange,BMW,F80,40014.90,0,2015-04-12,8.3
+Charles Scott, grey,Tesla,Model 3,33344.89,16,2022-12-10,NULL
+Jennifer Hess, grey,Kia,Rio,29334.90,0,2022-06-17,3.1
+Mrs. Andrea King DVM, purple,Kia,K5,13887.90,0,2020-11-11,4.9
+Eddie Rice, blue,Hyundai,Elantra,31766.10,0,2016-09-04,5.0
+Joshua Hernandez, blue,Audi,RS3,20659.72,13,2021-06-14,7.5
+Shannon Martinez, purple,Tesla,Model S,40386.15,0,2022-12-30,NULL
+Morgan Allen, purple,Tesla,Model 3,53495.00,0,2019-08-03,NULL
+Tina Cummings, green,Lada,Kalina,13699.20,0,2018-04-23,6.7
+David Mccullough, purple,Lada,Kalina,12954.60,0,2015-07-04,6.7
+Darrell Rodriguez, blue,Hyundai,Avante,33040.80,0,2015-04-22,5.5
+Robert Owen, yellow,Audi,A3,22524.70,0,2020-04-22,5.7
+Brittany Donovan, blue,Tesla,Model X,34422.30,0,2016-02-06,NULL
+Nicole Gomez, purple,BMW,F80,39303.60,0,2021-08-30,8.3
+Martin Meza, orange,Hyundai,Sonata,27083.81,15,2022-05-25,6.0
+Lisa Johnson, yellow,Lada,Samara,20894.35,0,2017-07-06,7.8
+Mark Ellis, blue,Hyundai,Avante,44682.00,0,2018-02-23,5.5
+Joseph Johnson, red,Lada,Samara,13252.50,0,2015-01-01,7.8
+Natalie Estrada, yellow,BMW,F30,51610.97,0,2022-02-23,2.0
+Antonio Harvey, orange,Audi,RS3,26278.80,0,2018-03-31,7.5
+Robin Wallace, yellow,Porsche,911,59152.32,0,2015-03-30,12.0
+Matthew Dunlap, grey,BMW,F80,48280.52,1,2019-07-21,8.3
+Susan Phelps, blue,Tesla,Model S,55250.40,0,2018-04-18,NULL
+Lori Ware, yellow,Kia,Rio,21981.10,0,2017-09-19,3.1
+John Kim, orange,Hyundai,Elantra,35841.75,0,2022-02-08,5.0
+Samantha Silva, red,Porsche,911,73170.56,0,2022-08-24,12.0
+John Juarez, red,Kia,Rio,24129.00,0,2022-07-25,3.1
+Steven Cochran, purple,Tesla,Model X,52137.75,0,2022-03-20,NULL
+Mary Ryan, yellow,Tesla,Model S,66342.47,0,2021-11-11,NULL
+Taylor Rios, blue,Lada,Kalina,11270.70,0,2021-03-11,6.7
+Cody Baldwin, purple,Lada,Vesta,16308.00,0,2015-11-28,7.3
+Calvin Blake, orange,Lada,Samara,17629.50,0,2022-09-29,7.8
+Maria Villanueva, red,Tesla,Model S,70568.88,0,2019-05-23,NULL
+Janice Thompson, yellow,Lada,Samara,25924.80,0,2019-09-21,7.8
+Brenda Mitchell, orange,Tesla,Model X,49164.70,0,2019-07-15,NULL
+Steven Forbes, grey,Audi,A3,31296.30,0,2021-11-07,5.7
+Samuel Alvarez, purple,Lada,Samara,14693.40,0,2020-04-02,7.8
+Thomas Hansen, purple,Lada,Vesta,17056.30,0,2016-05-26,7.3
+Melissa Mcdaniel, grey,Lada,Vesta,14294.70,0,2021-04-11,7.3
+Jesse Carlson, pink,Hyundai,Elantra,19459.44,0,2020-03-26,5.0
+Justin Case Jr., grey,Kia,Rio,21629.02,8,2015-06-14,3.1
+Michael Krueger, yellow,Hyundai,Sonata,45425.46,0,2018-09-18,6.0
+Dr. Christine Knapp, blue,Lada,Vesta,25916.80,0,2019-10-06,7.3
+Dwayne Wang, grey,Lada,Vesta,12319.65,0,2021-12-31,7.3
+Timothy Parker, pink,Porsche,911,36264.78,0,2015-10-07,12.0
+Edward Booker, pink,Audi,RS3,17319.99,6,2018-04-12,7.5
+Angela Clark, red,Tesla,Model S,51093.00,0,2021-11-02,NULL
+Gary Brown, pink,Hyundai,Elantra,18365.94,0,2020-06-28,5.0
+Luis Patel, yellow,Hyundai,Elantra,45020.43,0,2021-08-24,5.0
+Terry Fry, green,Porsche,911,72691.20,0,2018-07-01,12.0
+Thomas Brock, red,Tesla,Model X,65152.19,0,2016-09-01,NULL
+Amber Barnett, red,Lada,Kalina,20905.88,0,2020-12-09,6.7
+Cody Lloyd, pink,Hyundai,Sonata,18774.72,0,2020-12-06,6.0
+Todd Palmer, grey,Hyundai,Elantra,32920.65,0,2021-07-17,5.0
+Patty Peterson, pink,Audi,RS3,17284.02,0,2019-01-05,7.5
+Katherine Robinson, grey,Porsche,911,68387.55,0,2022-01-26,12.0
+Megan Anderson, yellow,Audi,A3,28848.55,0,2015-10-18,5.7
+Sandra Wheeler, grey,Audi,A3,21628.65,0,2016-10-13,5.7
+Theresa Oliver, grey,Audi,S3,18162.90,0,2015-09-25,6.9
+Elizabeth Diaz, blue,Kia,Rio,15155.35,0,2016-10-06,3.1
+Wendy Allen, green,BMW,F80,38545.00,0,2017-03-05,8.3
+Andrew Henry, grey,Audi,RS3,24208.85,0,2016-05-05,7.5
+Louis Bender, green,Audi,A3,24489.10,0,2016-03-02,5.7
+Eric Daniels, green,BMW,F30,38399.55,0,2021-08-05,2.0
+Mrs. Brittney Hunter, orange,Tesla,Model X,45180.00,0,2015-12-19,NULL
+Jaclyn Reynolds, orange,Porsche,911,52116.30,0,2020-04-25,12.0
+Jasmine Contreras, blue,Tesla,Model Y,42476.40,0,2018-03-23,NULL
+Deborah Harrison, grey,Audi,RS3,26853.00,0,2017-03-09,7.5
+Dustin Rogers, green,Audi,A3,20832.00,0,2017-06-07,5.7
+Ariana Ortega, green,Hyundai,Avante,39822.30,0,2021-05-06,5.5
+David Fry, green,BMW,F80,41784.75,0,2021-03-15,8.3
+David Fields, yellow,Tesla,Model S,47553.77,0,2021-01-31,NULL
+Mark Sullivan, grey,Kia,K5,24003.00,0,2021-10-05,4.9
+Elizabeth Tucker, red,Audi,RS3,28423.40,12,2021-02-22,7.5
+Crystal Sanders, orange,BMW,F80,53166.00,0,2018-04-14,8.3
+Brian Simpson, pink,Porsche,911,34081.56,0,2015-11-20,12.0
+Karen Garcia, green,Audi,A3,30441.60,0,2022-12-22,5.7
+Michael Velazquez, blue,Tesla,Model 3,37172.10,0,2021-05-26,NULL
+Michael Davis, pink,Tesla,Model X,29773.38,0,2016-12-26,NULL
+Joseph Reed, grey,Kia,Rio,26308.80,0,2018-11-18,3.1
+Suzanne Romero, pink,Hyundai,Avante,24081.84,0,2018-12-31,5.5
+Amy Fisher, green,Lada,Samara,16942.30,0,2016-07-28,7.8
+Todd Gonzalez, purple,Audi,A3,23863.00,0,2017-07-02,5.7
+Wendy Campbell, purple,Audi,S3,26506.90,0,2016-05-07,6.9
+Caleb George, pink,Tesla,Model X,30183.93,0,2022-08-03,NULL
+Gabrielle Santana, blue,Lada,Vesta,16061.85,0,2022-08-24,7.3
+Adrienne Campbell, orange,Tesla,Model Y,34058.70,0,2020-01-28,NULL
+Christopher Orozco, yellow,Lada,Vesta,19970.33,0,2020-03-01,7.3
+Thomas Ball, red,BMW,F80,50418.75,0,2017-11-21,8.3
+Jessica Smith, yellow,Audi,S3,20852.15,0,2015-09-25,6.9
+Nathan Meyer, pink,Audi,S3,11264.40,0,2020-08-14,6.9
+Mr. Connor Thompson, purple,Tesla,Model Y,45383.88,15,2018-02-13,NULL
+Stephen Sloan, yellow,Tesla,Model X,39006.05,0,2020-09-24,NULL
+Sarah Blair, pink,Tesla,Model 3,28375.92,0,2018-09-08,NULL
+Timothy Kent, red,Tesla,Model Y,46301.25,0,2017-07-13,NULL
+Lindsey Kelley, orange,BMW,F80,37554.00,0,2017-11-02,8.3
+Ashley Johnson, purple,Tesla,Model X,45081.90,0,2015-10-12,NULL
+Robert Hopkins, purple,Lada,Vesta,12908.70,0,2015-11-04,7.3
+Samuel Hardy, red,BMW,F80,47145.00,0,2021-03-02,8.3
+Scott Kaiser, red,Lada,Vesta,18158.63,0,2020-11-08,7.3
+Daniel Wright, yellow,Kia,K5,23090.85,0,2015-08-08,4.9
+Larry Freeman, orange,Lada,Vesta,10582.20,0,2015-05-26,7.3
+Luis Graves, purple,Tesla,Model Y,41865.55,0,2016-04-02,NULL
+Catherine Avila, red,Hyundai,Sonata,38777.63,0,2020-09-06,6.0
+Lisa Osborn, yellow,Audi,S3,20986.70,0,2020-12-09,6.9
+Ruth Esparza, pink,Porsche,911,40985.25,3,2022-02-16,12.0
+Darlene Ramirez, blue,Audi,RS3,23636.95,0,2016-04-24,7.5
+Keith Lopez, purple,Audi,A3,24540.48,20,2018-04-06,5.7
+Ryan Roberts, grey,Lada,Samara,20541.15,0,2021-06-02,7.8
+Zachary Long, yellow,Audi,A3,28915.83,0,2020-02-03,5.7
+Cody Martinez, grey,Tesla,Model X,40913.65,0,2016-10-13,NULL
+April Curry, green,Lada,Vesta,18139.20,0,2018-10-20,7.3
+Andrea Jenkins, orange,Tesla,Model 3,30302.18,9,2015-06-01,NULL
+Victoria Brown, orange,Audi,S3,26732.70,0,2015-12-24,6.9
+Julia Avila, yellow,BMW,M3,41126.76,0,2015-08-11,9.0
+Samuel Martinez, grey,Kia,Rio,22985.82,1,2019-01-17,3.1
+Glen Kim, pink,Lada,Vesta,13731.12,0,2018-10-21,7.3
+Kelly Dougherty, yellow,Hyundai,Elantra,40057.61,0,2022-08-08,5.0
+William Thompson, red,BMW,F30,48944.62,7,2022-05-01,2.0
+Angel Walker MD, green,Kia,K5,14671.80,0,2020-12-01,4.9
+Donna Jefferson, green,BMW,M3,34632.00,0,2020-07-27,9.0
+Anne Stevenson, purple,Tesla,Model S,32268.60,0,2015-03-10,NULL
+William Hunt, blue,Kia,Rio,16946.10,0,2015-12-13,3.1
+Samantha Kelly, grey,Tesla,Model 3,42509.00,0,2017-02-26,NULL
+Carlos Conway, green,Audi,A3,25116.30,0,2015-09-04,5.7
+Kristy Davis, green,BMW,M3,47617.70,0,2019-11-21,9.0
+Becky Fox, orange,BMW,F30,36654.72,20,2018-04-12,2.0
+Melinda Maldonado, red,Hyundai,Sonata,45157.50,0,2017-05-21,6.0
+David Kelley, red,Porsche,911,76334.88,0,2016-01-06,12.0
+Diana Jones, yellow,Tesla,Model 3,38560.39,9,2017-12-01,NULL
+Jeff Pineda, yellow,Tesla,Model Y,72418.26,0,2018-01-30,NULL
+Brittany Smith, pink,BMW,F30,19707.84,0,2020-05-10,2.0
+Ronald Mendez, orange,BMW,F30,43828.05,0,2022-10-08,2.0
+Monica Buchanan, green,Audi,RS3,21993.30,0,2015-05-28,7.5
+Sandra Mejia, grey,Lada,Kalina,11012.76,12,2020-02-08,6.7
+Sarah Jones, orange,Kia,K5,25763.71,4,2019-01-12,4.9
+Mark Lyons, yellow,Audi,RS3,32438.81,11,2019-01-15,7.5
+Rachel Scott, pink,Tesla,Model X,20081.38,20,2021-08-11,NULL
+William Fleming, grey,Tesla,Model 3,47100.00,0,2017-12-25,NULL
+Mary Hawkins, yellow,Tesla,Model S,65539.31,0,2019-08-20,NULL
+Meagan Dean, purple,BMW,F80,35660.70,0,2015-05-26,8.3
+Jessica Nichols, grey,Tesla,Model Y,50614.87,12,2021-07-09,NULL
+Adam Ryan, grey,Hyundai,Sonata,38297.70,0,2021-11-09,6.0
+Ronald Baxter, yellow,Audi,A3,34260.40,0,2021-03-07,5.7
+Christina Gray, orange,Tesla,Model S,26147.24,17,2020-09-04,NULL
+Diane Johnson, pink,Lada,Kalina,11345.10,0,2019-08-02,6.7
+Rhonda Wilson, yellow,Audi,A3,23121.90,0,2017-03-11,5.7
+Katie Anderson, orange,Tesla,Model 3,39621.00,0,2017-09-07,NULL
+Dominic Taylor, grey,Lada,Samara,11601.00,0,2020-04-27,7.8
+Karen Pollard, pink,Tesla,Model Y,31842.52,17,2018-11-02,NULL
+Susan Martinez, orange,BMW,F30,32907.60,0,2015-04-05,2.0
+Wesley Cox, yellow,Kia,K5,16528.26,16,2017-10-28,4.9
+Susan Garner DVM, pink,Hyundai,Elantra,19678.20,0,2017-08-06,5.0
+Mrs. Kristin Soto, green,BMW,F80,51328.80,0,2018-06-16,8.3
+Steven Owens, grey,Porsche,911,65782.75,0,2016-02-19,12.0
+Jennifer Evans, green,Kia,Rio,17072.45,0,2016-12-23,3.1
+Scott Brown, green,Hyundai,Sonata,27048.60,0,2015-09-02,6.0
+Richard Daniels, grey,Kia,K5,25920.75,0,2016-04-20,4.9
+Nicole Carey, red,BMW,F80,39866.63,0,2020-12-08,8.3
+Karen Weber, grey,Lada,Samara,15301.65,0,2022-05-12,7.8
+Phillip Simmons, purple,Tesla,Model X,41854.00,0,2017-03-23,NULL
+Charles Young, red,BMW,F80,55987.31,0,2021-06-09,8.3
+Karla Rodriguez, grey,Audi,A3,26865.30,0,2021-03-12,5.7
+Belinda Ayala, purple,Hyundai,Elantra,31413.65,0,2016-12-10,5.0
+Sandra Davis DDS, orange,BMW,F30,33518.70,0,2020-03-12,2.0
+Michael Mcguire, orange,Tesla,Model S,52183.50,0,2016-11-08,NULL
+George Marshall, pink,Tesla,Model Y,29668.59,0,2022-01-28,NULL
+Alejandro Stevens, orange,Tesla,Model 3,52972.50,0,2021-05-28,NULL
+Joyce Beard, yellow,Hyundai,Sonata,44611.09,0,2022-08-07,6.0
+Gail Campos, green,Tesla,Model Y,55116.60,0,2021-01-27,NULL
+Anita Stevens, green,BMW,F80,39420.90,0,2015-01-31,8.3
+Jessica Singleton, grey,Tesla,Model S,31646.70,0,2020-09-16,NULL
+William Chambers, pink,Lada,Vesta,11493.60,7,2022-10-27,7.3
+Jonathan Jackson, green,Kia,K5,22256.00,0,2017-03-25,4.9
+John Sanchez, orange,Lada,Vesta,13373.85,0,2021-11-25,7.3
+Amanda Parker, green,Audi,RS3,26626.60,0,2019-10-11,7.5
+Jessica Williams, red,Tesla,Model Y,51711.19,0,2021-05-18,NULL
+Brianna Henderson, green,Lada,Kalina,17298.55,0,2016-12-08,6.7
+Tiffany Santiago, grey,Tesla,Model X,35766.00,0,2020-09-04,NULL
+Douglas Mcguire, green,BMW,F80,49966.80,0,2018-08-10,8.3
+Mr. Joseph Powers, pink,Tesla,Model 3,31083.60,0,2017-06-06,NULL
+Nicholas Wyatt, purple,Kia,Rio,34451.30,0,2019-08-21,3.1
+Dennis Mendoza, grey,BMW,M3,41039.25,0,2021-03-29,9.0
+Mark Frye, grey,Hyundai,Sonata,28748.70,0,2015-06-17,6.0
+Kimberly Chambers, pink,Tesla,Model 3,24807.51,0,2021-07-26,NULL
+Jose Martinez, green,Hyundai,Avante,31160.00,0,2017-05-04,5.5
+Jack Miller, blue,BMW,M3,53468.40,0,2018-09-07,9.0
+Alexandra Hartman, red,Hyundai,Elantra,44562.08,14,2019-09-13,5.0
+Johnathan Fernandez, green,BMW,F80,48215.70,0,2019-09-04,8.3
+Jason Robertson, green,Audi,S3,25545.60,0,2015-09-28,6.9
+William Wong, green,Audi,S3,29376.10,0,2019-07-24,6.9
+Maria Miller, grey,Hyundai,Sonata,33534.00,0,2015-06-20,6.0
+Angel Raymond, purple,Tesla,Model 3,36002.70,0,2020-06-23,NULL
+Nicole Floyd, orange,Porsche,911,78031.20,0,2019-04-10,12.0
+Anna Mack, grey,Tesla,Model 3,36226.80,0,2020-03-12,NULL
+Teresa Burke, purple,Audi,S3,27614.00,0,2017-12-07,6.9
+Paula Williams, orange,Porsche,911,61757.10,0,2015-04-15,12.0
+Tony Cruz, grey,Tesla,Model Y,33679.80,0,2020-03-07,NULL
+Kathleen Shaw, green,Tesla,Model X,37558.50,0,2022-02-20,NULL
+Jason Cowan, purple,Hyundai,Elantra,35313.60,0,2022-02-07,5.0
+Courtney Warner, grey,Hyundai,Avante,35928.00,0,2017-10-17,5.5
+Thomas Hardy, yellow,Audi,A3,22465.71,0,2015-11-05,5.7
+David Tucker, pink,Kia,K5,9846.75,0,2016-05-02,4.9
+David Thomas, green,Hyundai,Elantra,41616.00,0,2018-11-21,5.0
+Christina Moore, grey,Lada,Kalina,15721.00,0,2017-01-03,6.7
+Joseph Phillips, grey,Hyundai,Elantra,49289.50,0,2019-05-23,5.0
+Erica Oneal MD, grey,Kia,K5,26961.90,0,2021-06-20,4.9
+Elizabeth Gutierrez, green,Tesla,Model X,39192.30,0,2022-04-16,NULL
+Terry Snyder, yellow,Lada,Vesta,19173.31,16,2022-02-25,7.3
+Andrew Torres, purple,Lada,Samara,12241.00,0,2017-12-09,7.8
+Michelle Jordan, green,Lada,Samara,15509.70,0,2016-08-06,7.8
+Kenneth Mitchell, blue,Audi,S3,33133.10,0,2019-03-24,6.9
+Meredith Jones, yellow,BMW,M3,45494.98,0,2021-12-19,9.0
+Sarah Mayer, purple,BMW,M3,32601.91,14,2021-11-18,9.0
+Kelly Rodriguez, green,Lada,Kalina,18981.30,0,2019-07-31,6.7
+Lori Ramsey, red,Lada,Kalina,15960.00,0,2021-12-10,6.7
+Dan Dixon, yellow,Lada,Samara,21777.89,0,2016-03-08,7.8
+April Martinez MD, purple,Tesla,Model S,45442.30,0,2016-01-01,NULL
+David Castaneda, green,Kia,Rio,25494.00,0,2017-12-12,3.1
+Colin Moreno, pink,BMW,M3,27277.74,0,2021-12-22,9.0
+Michelle Hamilton, blue,Tesla,Model X,44819.25,0,2021-09-10,NULL
+Ashley Thompson, green,Tesla,Model Y,54044.55,0,2021-03-29,NULL
+Angela Salazar, blue,Hyundai,Sonata,34009.80,3,2016-10-25,6.0
+Natalie Thompson, grey,Hyundai,Avante,38949.75,0,2021-08-22,5.5
+Joseph Wolfe, red,BMW,F80,52153.01,1,2021-03-29,8.3
+Kimberly Gray, orange,BMW,M3,47437.20,0,2018-12-01,9.0
+April Tran, green,Lada,Vesta,20841.45,0,2021-07-18,7.3
+Megan Morrow, green,Tesla,Model X,45783.00,0,2015-08-28,NULL
+Julian Spencer, green,Audi,A3,25648.20,0,2020-02-25,5.7
+Darrell Hall, purple,Kia,K5,38399.40,0,2019-07-27,4.9
+Timothy Lewis, grey,Audi,A3,27985.65,0,2022-01-04,5.7
+Amanda Edwards, green,Audi,RS3,23671.67,5,2022-11-25,7.5
+Matthew Hill, red,BMW,M3,45901.63,0,2016-12-17,9.0
+Kimberly Montes, purple,Audi,A3,26360.40,0,2018-04-19,5.7
+Morgan Bell, orange,Kia,Rio,13615.09,15,2021-07-01,3.1
+Theresa Price, orange,Tesla,Model Y,45817.20,0,2018-05-22,NULL
+Alexis Smith, purple,Kia,Rio,24226.20,0,2020-03-18,3.1
+Jermaine Berger, yellow,Hyundai,Elantra,46910.34,10,2018-11-22,5.0
+Vanessa Davis, blue,Lada,Samara,12954.90,0,2022-09-11,7.8
+Valerie Maldonado DVM, purple,Lada,Samara,11113.29,3,2020-02-16,7.8
+Christina Oconnell, pink,Audi,RS3,18539.01,0,2022-05-19,7.5
+Daniel Mendez, green,Lada,Vesta,25097.80,0,2019-12-24,7.3
+William Kirk, yellow,Hyundai,Elantra,33697.39,20,2018-01-14,5.0
+Shawn Butler, green,Kia,K5,16966.00,0,2017-11-23,4.9
+Robert Stanley, purple,Hyundai,Sonata,38395.35,0,2022-01-02,6.0
+Angela Reese, yellow,Lada,Vesta,12412.75,19,2021-01-11,7.3
+Mathew Campbell, red,Kia,K5,27834.63,0,2019-02-14,4.9
+Terri Morales, orange,BMW,M3,38794.00,0,2017-05-16,9.0
+Bradley Ross, red,Tesla,Model Y,56849.63,0,2022-02-27,NULL
+Timothy Wong, pink,BMW,F80,19803.42,0,2015-08-24,8.3
+Brian Vega, purple,Tesla,Model 3,55533.60,0,2018-03-04,NULL
+Vanessa Reed, red,Audi,RS3,26792.50,0,2017-10-27,7.5
+Linda Mcfarland MD, red,Tesla,Model Y,46083.38,0,2020-11-22,NULL
+Sarah Mcconnell, blue,Kia,K5,16600.30,0,2016-10-17,4.9
+Angela Flores, purple,Tesla,Model S,46225.80,0,2020-07-22,NULL
+Jose Bradley, yellow,Porsche,911,66527.73,0,2015-10-08,12.0
+April Sloan, green,Tesla,Model X,46237.20,0,2018-03-20,NULL
+Edward Shaw, blue,Audi,S3,24450.30,0,2015-01-23,6.9
+Paul Santiago, blue,BMW,F30,52819.20,0,2018-11-17,2.0
+Steven Robinson, purple,Tesla,Model Y,41358.20,15,2015-01-28,NULL
+Jennifer Baird, blue,Audi,A3,27235.20,0,2018-08-06,5.7
+Stacey Hall, orange,Porsche,911,61298.00,0,2017-01-23,12.0
+Sergio Snyder, yellow,Audi,S3,22832.10,10,2017-04-18,6.9
+Thomas Miller, blue,Tesla,Model 3,44617.70,0,2016-12-03,NULL
+Adam Stevens, red,Hyundai,Elantra,31758.19,14,2015-02-22,5.0
+Shannon Copeland, blue,Audi,A3,20924.10,0,2015-08-31,5.7
+Ryan Perez, pink,Audi,S3,12554.40,0,2017-12-14,6.9
+Renee Wilson, pink,Lada,Vesta,7415.73,0,2021-05-07,7.3
+Melissa Meyer, purple,Hyundai,Avante,33081.36,20,2019-11-05,5.5
+Stephanie Davis, green,Kia,Rio,12484.15,13,2015-12-25,3.1
+Stephen Reed, red,Tesla,Model Y,71519.32,5,2018-12-29,NULL
+Ian Brown, pink,Tesla,Model Y,24260.57,18,2021-04-19,NULL
+Laura Gonzales, yellow,Porsche,911,67792.67,0,2022-03-17,12.0
+Kevin Baker, orange,Tesla,Model X,43542.00,0,2017-03-06,NULL
+Cindy Lucero, green,BMW,F30,49142.40,0,2018-01-04,2.0
+Kimberly Mcfarland, blue,Kia,Rio,33165.60,0,2019-08-30,3.1
+Cheryl Jackson, green,Kia,K5,24927.05,0,2016-04-24,4.9
+Denise Henderson, blue,Tesla,Model Y,50644.65,0,2022-09-12,NULL
+Robert Brown, grey,Audi,S3,21829.10,0,2016-10-29,6.9
+Teresa Reynolds, yellow,Lada,Vesta,15727.86,0,2018-03-28,7.3
+Misty Ellison, purple,Hyundai,Avante,33469.20,0,2020-01-10,5.5
+Timothy Hamilton, orange,Audi,A3,16978.37,6,2020-07-12,5.7
+Lisa Mcdaniel, green,Hyundai,Avante,28926.90,0,2020-07-09,5.5
+Erin Williams, orange,Audi,S3,28123.20,0,2018-09-14,6.9
+Scott Mcguire, orange,Kia,Rio,25961.60,0,2016-11-11,3.1
+Lisa Garza, grey,Tesla,Model S,46521.90,0,2015-12-07,NULL
+Mrs. Ashley Mccarthy, pink,Audi,S3,9018.75,19,2020-01-05,6.9
+Mr. Edward Brown Jr., pink,BMW,F30,22865.85,0,2022-12-27,2.0
+Joseph Daniels, green,Lada,Samara,19767.00,0,2017-09-20,7.8
+Cole Flowers, red,Tesla,Model 3,47998.13,0,2015-02-16,NULL
+Melissa Moody, red,Lada,Kalina,23055.50,0,2019-03-12,6.7
+Jonathan Hernandez, pink,Tesla,Model Y,34505.73,0,2021-05-12,NULL
+Michael Norman, orange,Audi,A3,30639.60,0,2018-06-19,5.7
+Reginald Clark, orange,BMW,M3,33679.80,0,2015-08-14,9.0
+Jason Stewart, green,Tesla,Model Y,54052.95,0,2022-10-27,NULL
+Michelle Fernandez, grey,BMW,M3,39574.15,0,2016-09-09,9.0
+Becky Williams, purple,Lada,Kalina,15593.30,0,2016-07-27,6.7
+Annette Nelson, orange,Tesla,Model 3,43499.40,0,2021-06-03,NULL
+Mike Melendez, purple,BMW,F80,53835.60,0,2018-08-02,8.3
+Alfred Moore, red,Lada,Vesta,21925.31,0,2022-11-07,7.3
+Roberto Moore, orange,Hyundai,Avante,28774.80,0,2020-01-05,5.5
+Brandon Richardson, red,Audi,A3,30871.13,0,2020-12-25,5.7
+Wayne Johnson, grey,BMW,M3,41784.16,7,2018-03-20,9.0
+Angela Taylor, green,Tesla,Model S,47096.40,0,2019-05-15,NULL
+Jessica Murphy, grey,Audi,RS3,25749.90,0,2015-11-22,7.5
+Logan Jimenez, grey,Kia,Rio,21267.90,0,2020-03-13,3.1
+Lawrence Hays, orange,Tesla,Model 3,46755.00,0,2015-06-02,NULL
+Melissa Robinson, orange,Kia,Rio,37308.70,0,2019-02-09,3.1
+Glenda Davis, purple,Lada,Vesta,12710.25,0,2021-02-05,7.3
+Nicholas Ball, grey,Lada,Kalina,10482.30,0,2016-05-16,6.7
+Allen Grant, yellow,Kia,Rio,24668.65,0,2017-07-10,3.1
+Mrs. Joyce Fisher DDS, orange,Porsche,911,48248.73,17,2020-02-19,12.0
+Alexandria Ross, orange,Lada,Samara,12195.75,0,2021-12-19,7.8
+Tammy Crawford, pink,Audi,A3,22719.06,0,2019-11-04,5.7
+Roberta Jensen, yellow,Hyundai,Avante,37573.78,0,2022-04-25,5.5
+David Lewis, grey,Lada,Kalina,15719.60,0,2019-01-14,6.7
+Brenda Evans, red,Lada,Kalina,16267.31,11,2021-04-29,6.7
+Michael Tucker, grey,Porsche,911,68593.98,15,2018-07-29,12.0
+Paul Crawford, red,Kia,K5,19924.88,0,2020-08-12,4.9
+Dustin Martin, purple,Tesla,Model X,65683.20,0,2018-12-31,NULL
+Michael Wu, purple,BMW,F80,43945.20,0,2018-02-22,8.3
+Carla Smith, pink,Lada,Vesta,8631.95,15,2020-11-23,7.3
+Daniel Sanders, purple,Tesla,Model S,54218.85,0,2022-05-30,NULL
+Summer Diaz, purple,Hyundai,Sonata,33483.60,0,2020-08-22,6.0
+Matthew Anderson, red,Tesla,Model 3,49062.75,0,2016-07-17,NULL
+Jason Davis, grey,Audi,RS3,22708.00,0,2017-10-30,7.5
+Amanda Rice, blue,Audi,RS3,22100.40,0,2022-02-06,7.5
+Jason Richards, red,Lada,Vesta,22525.13,0,2021-11-28,7.3
+Tonya Rivera, red,Porsche,911,77940.19,0,2022-10-18,12.0
+Martha Parker, green,Tesla,Model 3,45225.00,0,2015-03-26,NULL
+David Hardy, purple,Tesla,Model X,43263.15,0,2021-09-15,NULL
+Mark Watson, blue,BMW,F80,36947.40,0,2016-05-22,8.3
+Elizabeth Nelson, purple,Kia,K5,25568.10,0,2020-04-05,4.9
+Robert Lopez, yellow,Lada,Samara,17845.99,0,2016-10-28,7.8
+Laura Mcclain, green,Tesla,Model S,48448.40,0,2019-01-01,NULL
+Anthony Brown, red,Lada,Samara,15171.19,0,2022-01-04,7.8
+Brandy Martin, purple,BMW,F30,39121.00,0,2017-09-02,2.0
+Jeremy Jennings, orange,Kia,K5,14083.20,0,2015-09-18,4.9
+Amanda Kelly, green,BMW,F30,39205.95,0,2022-05-17,2.0
+Wayne Miller, grey,Lada,Samara,21079.50,0,2019-05-02,7.8
+Lori Booth, green,Porsche,911,54345.56,9,2015-03-13,12.0
+Jose Love, green,Audi,S3,29528.23,19,2019-05-06,6.9
+Dawn Kennedy, green,Lada,Vesta,15858.15,0,2022-11-02,7.3
+Cynthia Obrien, orange,Audi,RS3,27890.10,0,2016-03-29,7.5
+Linda Romero, green,BMW,M3,43470.00,0,2017-09-13,9.0
+Brandy Sanders, green,Lada,Kalina,14270.10,0,2019-07-15,6.7
+Charles Martinez, orange,Lada,Kalina,16071.30,0,2015-05-01,6.7
+Corey Moran Jr., purple,Lada,Vesta,10222.00,0,2016-12-15,7.3
+James Turner, grey,BMW,M3,48295.20,0,2018-11-02,9.0
+Catherine Burton, green,BMW,F30,35506.80,0,2020-05-19,2.0
+Colleen Daniels, red,Tesla,Model 3,48549.38,0,2021-12-26,NULL
+Kathleen Vega, grey,Tesla,Model 3,56847.60,0,2018-01-11,NULL
+Nicholas Gilbert, blue,Tesla,Model S,49566.32,3,2022-10-16,NULL
+Mary Ramirez, yellow,Tesla,Model 3,71501.94,0,2018-06-12,NULL
+Kathleen Kim, grey,Tesla,Model X,34492.65,5,2016-11-03,NULL
+Brent Johnson, purple,Porsche,911,53674.05,0,2016-04-23,12.0
+Joshua Calderon, grey,Audi,A3,18047.70,0,2020-03-02,5.7
+Wendy Fox, purple,BMW,M3,53635.40,0,2019-11-01,9.0
+Heather Gutierrez, blue,Hyundai,Elantra,37418.40,0,2018-07-08,5.0
+George Howard, grey,Audi,A3,26543.70,0,2015-05-17,5.7
+Timothy Morales, green,Audi,RS3,24870.30,0,2021-10-25,7.5
+Jennifer Hull, grey,Hyundai,Avante,33457.20,0,2022-08-08,5.5
+Andrea Campbell, yellow,Tesla,Model S,50505.24,0,2018-02-25,NULL
+Alex Nelson, pink,Kia,K5,21264.48,0,2018-07-24,4.9
+Mrs. Chelsea Bradley, yellow,BMW,F80,34125.38,18,2015-03-08,8.3
+Sophia Swanson, red,BMW,M3,55785.19,0,2022-10-15,9.0
+Kaitlyn Warren, grey,Tesla,Model X,59347.60,0,2019-10-13,NULL
+Michael Cabrera, yellow,Audi,RS3,27192.55,0,2015-01-19,7.5
+Thomas Parker, blue,Audi,RS3,25984.80,0,2015-12-30,7.5
+Richard Lynn, pink,BMW,M3,30481.62,0,2019-01-27,9.0
+Kayla Stewart, pink,Lada,Samara,7528.01,12,2016-10-28,7.8
+Rachel Jensen, grey,Kia,Rio,15220.00,0,2017-09-22,3.1
+Michael Wise, red,Hyundai,Elantra,38641.25,0,2017-03-05,5.0
+Kyle Weiss, blue,Lada,Vesta,9891.00,0,2020-10-20,7.3
+Christine Duncan, grey,Tesla,Model 3,43410.15,0,2021-10-03,NULL
+Adrian Cabrera, blue,Audi,S3,24434.00,0,2017-01-19,6.9
+Nicholas Rivera, green,Audi,RS3,24064.00,6,2017-11-25,7.5
+Jesse Nguyen, pink,Audi,A3,20411.04,0,2019-01-29,5.7
+Harry Rogers, yellow,Tesla,Model X,54751.73,0,2016-05-14,NULL
+Regina Murphy, orange,Hyundai,Avante,30744.90,0,2015-06-27,5.5
+Robert Simon, blue,Kia,K5,16941.60,0,2020-09-17,4.9
+Olivia Gomez, orange,Tesla,Model 3,47151.90,0,2020-07-31,NULL
+Ashley Morgan, red,Hyundai,Avante,34170.75,0,2015-04-09,5.5
+Jamie Smith, red,Tesla,Model X,44038.76,17,2017-09-09,NULL
+William Anderson, purple,Audi,A3,30784.00,0,2019-05-13,5.7
+David Harding, grey,BMW,M3,38659.95,0,2021-09-24,9.0
+John Riggs, grey,Kia,Rio,18860.10,0,2022-08-13,3.1
+Nathaniel Taylor, purple,Audi,A3,21650.40,0,2015-05-31,5.7
+Jeremy Jackson, pink,Tesla,Model S,27270.54,0,2015-10-18,NULL
+Keith Zhang, red,Lada,Samara,19059.75,0,2015-12-23,7.8
+Ryan Murphy, red,BMW,F80,49503.56,0,2021-09-18,8.3
+Craig Solomon, orange,Tesla,Model X,37855.80,0,2015-02-04,NULL
+Valerie Schneider, pink,Audi,A3,19457.28,0,2018-04-19,5.7
+Miss Rebecca Andrews, grey,Audi,S3,24870.15,15,2017-11-24,6.9
+Shaun Black, green,BMW,M3,43043.00,0,2017-06-07,9.0
+Linda Young, green,Lada,Samara,13377.14,6,2017-03-25,7.8
+Jason Martinez, yellow,Audi,A3,24366.14,0,2022-03-15,5.7
+Nathan Schmidt, purple,Lada,Kalina,15573.06,19,2017-09-22,6.7
+Lisa Bailey, grey,Audi,S3,19911.05,0,2016-11-17,6.9
+Michele Taylor, red,Tesla,Model S,62018.13,0,2019-05-17,NULL
+Stephanie Johnson, yellow,Tesla,Model 3,79743.30,0,2019-12-20,NULL
+Kim Reed, purple,Lada,Kalina,11526.30,0,2015-03-06,6.7
+Patricia Flores, orange,Tesla,Model X,41330.10,0,2022-09-24,NULL
+Timothy Singh, purple,Lada,Kalina,15499.80,0,2020-08-22,6.7
+Timothy Sanders, grey,Tesla,Model 3,56365.20,0,2018-01-17,NULL
+Patrick Chase, blue,Lada,Kalina,17046.00,0,2015-07-13,6.7
+Philip Green, orange,Lada,Samara,15427.00,0,2017-05-29,7.8
+Stephen Evans, orange,BMW,F80,41575.00,0,2017-05-15,8.3
+Bryan King, yellow,BMW,F30,37512.87,2,2020-06-11,2.0
+Brandon Bowman, green,Tesla,Model S,49159.20,0,2018-01-11,NULL
+Kathryn Scott, blue,Tesla,Model X,37447.20,0,2015-02-08,NULL
+Calvin Turner, red,Tesla,Model Y,60732.00,0,2021-07-03,NULL
+Leslie Elliott, pink,BMW,F30,21507.66,0,2015-09-10,2.0
+Samantha Bird, purple,Audi,A3,19783.40,8,2020-09-25,5.7
+Jason Fowler, grey,Lada,Vesta,23886.00,0,2018-09-03,7.3
+Paula Fisher, grey,Tesla,Model S,38824.60,0,2016-11-07,NULL
+Sydney Williams, grey,Tesla,Model 3,49158.90,0,2021-01-11,NULL
+Anita Gonzalez, green,Audi,RS3,28068.70,0,2016-01-13,7.5
+Zachary Montes, green,Tesla,Model X,35532.15,14,2016-06-14,NULL
+Jorge Carter, grey,Lada,Kalina,18954.40,0,2016-08-04,6.7
+Erica Miller, yellow,Hyundai,Avante,41312.20,0,2021-09-03,5.5
+Melissa Bowman, purple,BMW,F30,50416.30,2,2018-07-30,2.0
+Melissa Sanders, yellow,BMW,F30,47590.45,0,2017-02-23,2.0
+Melissa Bond, green,Lada,Samara,13722.74,2,2018-06-24,7.8
+Nicole Smith, yellow,Tesla,Model Y,46267.60,0,2015-10-31,NULL
+Charles Graves, grey,Hyundai,Avante,29905.13,12,2015-03-04,5.5

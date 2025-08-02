@@ -1,0 +1,7 @@
+person_id,name,age,age_group
+101,Ivan,12,до 18
+102,Olga,25,от 18 до 65
+103,Sergey,68,старше 65
+104,Anna,17,до 18
+105,Pavel,44,от 18 до 65
+106,Lena,80,старше 65

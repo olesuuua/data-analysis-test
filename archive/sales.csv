@@ -1,0 +1,11 @@
+sale_id,product_id,quantity,price_per_unit,region
+101,1,2,1000,North
+102,2,1,800,South
+103,3,3,600,West
+104,2,2,800,South
+105,1,1,1000,North
+106,4,2,300,East
+107,5,5,20,West
+108,6,4,50,North
+109,4,1,300,East
+110,5,3,20,South
